@@ -9,4 +9,8 @@ Recently, the world has witnessed a global pandemic caused by the COVID-19 virus
 
 <img width="738" alt="image" src="https://github.com/Junaid0411/FaceMaskDetectionSystem/assets/62774004/4bd8bd99-2de8-495a-ac9c-9b67556e93e9">
 
+
 When I began this project, I had a broad understanding of the need for face masks and the basics of neural networks. To connect the need for face masks to computer vision, I focused on how advanced technology can enforce mask-wearing, particularly in hospital and care home environments. To develop my face mask detection system proof of concept, I studied other detection systems and gained insight into what was needed for a successful design.
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
