@@ -1,0 +1,9 @@
+How to run on Windows:
+
+cd to tflite
+conda activate tflite1-env
+python TFLite_detection_webcam.py --modeldir=custom_model_lite
+
+OR
+
+python TFLite_detection_image.py --modeldir=custom_model_lite --imagedir=test_dataset
